@@ -1,0 +1,6 @@
+{
+  "name": "toolwaly-notify-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple Vercel API that emails the owner when a client's tool hits its daily domain-check limit."
+}
